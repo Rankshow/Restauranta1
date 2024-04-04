@@ -3,6 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Restauranta1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Migrations\\20240404162822_Added kiloCalories to dish entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Restauranta1.Infrastructure\\Migrations\\20240404162822_Added kiloCalories to dish entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6EB02-CD0E-4600-A680-3151E518A2A1}|Restauranta1.Domain\\Restauranta1.Domain.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6EB02-CD0E-4600-A680-3151E518A2A1}|Restauranta1.Domain\\Restauranta1.Domain.csproj|solutionrelative:restauranta1.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|solutionrelative:restauranta1.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RestaurantsDb/True/SqlTable/dbo.Restaurants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\migrations\\20240404122648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|solutionrelative:restauranta1.infrastructure\\migrations\\20240404122648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\persistence\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|solutionrelative:restauranta1.infrastructure\\persistence\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restaurant1.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|solutionrelative:restaurant1.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RestaurantKfcDB/True/SqlTable/dbo.Restaurants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restaurant1.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|solutionrelative:restaurant1.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +41,12 @@
       "RelativeMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|solutionrelative:restaurant1.api\\restaurant1.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\migrations\\20240404122648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|solutionrelative:restauranta1.infrastructure\\migrations\\20240404122648_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restaurant1.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|solutionrelative:restaurant1.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\persistence\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|solutionrelative:restauranta1.infrastructure\\persistence\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restaurant1.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{812692D6-F195-4940-8D7C-EC3B611210FA}|Restaurant1.Api\\Restaurant1.Api.csproj|solutionrelative:restaurant1.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\seeders\\irestaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|solutionrelative:restauranta1.infrastructure\\seeders\\irestaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|solutionrelative:restauranta1.infrastructure\\seeders\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +59,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.infrastructure\\restauranta1.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{025CF7F2-8EEF-4DBF-9BC9-ED7DC51A482D}|Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj|solutionrelative:restauranta1.infrastructure\\restauranta1.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A6EB02-CD0E-4600-A680-3151E518A2A1}|Restauranta1.Domain\\Restauranta1.Domain.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A6EB02-CD0E-4600-A680-3151E518A2A1}|Restauranta1.Domain\\Restauranta1.Domain.csproj|solutionrelative:restauranta1.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1A6EB02-CD0E-4600-A680-3151E518A2A1}|Restauranta1.Domain\\Restauranta1.Domain.csproj|c:\\users\\user\\source\\repos\\restauranta1\\restauranta1.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +80,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +96,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "20240404162822_Added kiloCalories to dish entity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Migrations\\20240404162822_Added kiloCalories to dish entity.cs",
+              "RelativeDocumentMoniker": "Restauranta1.Infrastructure\\Migrations\\20240404162822_Added kiloCalories to dish entity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Migrations\\20240404162822_Added kiloCalories to dish entity.cs",
+              "RelativeToolTip": "Restauranta1.Infrastructure\\Migrations\\20240404162822_Added kiloCalories to dish entity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:28:24.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Restaurants [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RestaurantsDb/True/SqlTable/dbo.Restaurants.sql",
+              "ToolTip": "dbo.Restaurants [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-04T16:14:31.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20240404122648_Init.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Migrations\\20240404122648_Init.cs",
               "RelativeDocumentMoniker": "Restauranta1.Infrastructure\\Migrations\\20240404122648_Init.cs",
@@ -99,33 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Restaurant1.Api.http",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Restaurant1.Api.http",
-              "RelativeDocumentMoniker": "Restaurant1.Api\\Restaurant1.Api.http",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Restaurant1.Api.http*",
-              "RelativeToolTip": "Restaurant1.Api\\Restaurant1.Api.http*",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-03T13:25:18.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RestaurantController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Controllers\\RestaurantController.cs",
-              "RelativeDocumentMoniker": "Restaurant1.Api\\Controllers\\RestaurantController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Controllers\\RestaurantController.cs*",
-              "RelativeToolTip": "Restaurant1.Api\\Controllers\\RestaurantController.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:43:55.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RestaurantDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Persistence\\RestaurantDbContext.cs",
               "RelativeDocumentMoniker": "Restauranta1.Infrastructure\\Persistence\\RestaurantDbContext.cs",
@@ -138,20 +145,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "RestaurantSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "RelativeDocumentMoniker": "Restauranta1.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "RelativeToolTip": "Restauranta1.Infrastructure\\Seeders\\RestaurantSeeder.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:50:52.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Domain\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "Restauranta1.Domain\\Entities\\Dish.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Domain\\Entities\\Dish.cs",
+              "RelativeToolTip": "Restauranta1.Domain\\Entities\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:26:48.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Restaurant1.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\appsettings.Development.json*",
-              "RelativeToolTip": "Restaurant1.Api\\appsettings.Development.json*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABbAAAA",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Restaurant1.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-04T13:02:22.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "dbo.Restaurants [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RestaurantKfcDB/True/SqlTable/dbo.Restaurants.sql",
+              "ToolTip": "dbo.Restaurants [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-04T16:11:15.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Restaurant1.Api.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Restaurant1.Api.http",
+              "RelativeDocumentMoniker": "Restaurant1.Api\\Restaurant1.Api.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Restaurant1.Api.http",
+              "RelativeToolTip": "Restaurant1.Api\\Restaurant1.Api.http",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-03T13:25:18.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Restaurant1.Api\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Restaurant1.Api\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:43:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Program.cs",
               "RelativeDocumentMoniker": "Restaurant1.Api\\Program.cs",
@@ -164,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "Restauranta1.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
@@ -176,20 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RestaurantSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Seeders\\RestaurantSeeder.cs",
-              "RelativeDocumentMoniker": "Restauranta1.Infrastructure\\Seeders\\RestaurantSeeder.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Seeders\\RestaurantSeeder.cs",
-              "RelativeToolTip": "Restauranta1.Infrastructure\\Seeders\\RestaurantSeeder.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T13:50:52.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "IRestaurantSeeder.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Seeders\\IRestaurantSeeder.cs",
               "RelativeDocumentMoniker": "Restauranta1.Infrastructure\\Seeders\\IRestaurantSeeder.cs",
@@ -202,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Restauranta1.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Restauranta1.Infrastructure\\Restauranta1.Infrastructure.csproj",
@@ -214,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Restaurant.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Domain\\Entities\\Restaurant.cs",
               "RelativeDocumentMoniker": "Restauranta1.Domain\\Entities\\Restaurant.cs",
@@ -226,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Domain\\Entities\\Address.cs",
               "RelativeDocumentMoniker": "Restauranta1.Domain\\Entities\\Address.cs",
@@ -238,19 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Dish.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Domain\\Entities\\Dish.cs",
-              "RelativeDocumentMoniker": "Restauranta1.Domain\\Entities\\Dish.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Domain\\Entities\\Dish.cs",
-              "RelativeToolTip": "Restauranta1.Domain\\Entities\\Dish.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T11:26:48.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Restaurant1.Api.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restaurant1.Api\\Restaurant1.Api.csproj",
               "RelativeDocumentMoniker": "Restaurant1.Api\\Restaurant1.Api.csproj",
@@ -262,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Restauranta1.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Restauranta1\\Restauranta1.Domain\\Restauranta1.Domain.csproj",
               "RelativeDocumentMoniker": "Restauranta1.Domain\\Restauranta1.Domain.csproj",

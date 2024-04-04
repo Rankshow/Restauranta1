@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Restauranta1.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bf60a32af2c89500f915cdfec209b84f36a68fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f04a9d46b9e30e0d25e5e0799b7dc7d29c3744f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Restauranta1.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Restauranta1.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
