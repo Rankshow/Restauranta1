@@ -17,3 +17,4 @@ C:\Users\User\source\repos\Restauranta1\Restauranta1.Infrastructure\obj\Debug\ne
 C:\Users\User\source\repos\Restauranta1\Restauranta1.Infrastructure\obj\Debug\net8.0\Restauranta1.Infrastructure.pdb
 C:\Users\User\source\repos\Restauranta1\Restauranta1.Infrastructure\obj\Debug\net8.0\Restauranta1.Infrastructure.genruntimeconfig.cache
 C:\Users\User\source\repos\Restauranta1\Restauranta1.Infrastructure\obj\Debug\net8.0\ref\Restauranta1.Infrastructure.dll
+C:\Users\User\source\repos\Restauranta1\Restauranta1.Infrastructure\obj\Debug\net8.0\Restauranta1.Infrastructure.sourcelink.json

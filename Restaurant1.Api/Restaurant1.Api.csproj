@@ -8,10 +8,14 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Restauranta1.Application\Restauranta1.Application.csproj" />
+    <ProjectReference Include="..\Restauranta1.Infrastructure\Restauranta1.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>
