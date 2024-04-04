@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Restaurant1.Api/1.0.0": {
+        "dependencies": {
+          "Restauranta1.Application": "1.0.0"
+        },
+        "runtime": {
+          "Restaurant1.Api.dll": {}
+        }
+      },
+      "Restauranta1.Application/1.0.0": {
+        "dependencies": {
+          "Restauranta1.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Restauranta1.Application.dll": {}
+        }
+      },
+      "Restauranta1.Domain/1.0.0": {
+        "runtime": {
+          "Restauranta1.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restaurant1.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Restauranta1.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Restauranta1.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

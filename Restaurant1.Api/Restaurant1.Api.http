@@ -1,0 +1,23 @@
+@Restaurant1.Api_HostAddress = https://localhost:7040
+@host = https://localhost
+@port = 7040
+
+GET {{Restaurant1.Api_HostAddress}}/weatherforecast/23/example?=max15
+Accept: application/json
+ProjectUrl: {{$projectUrl}}
+Guid: {{$guid}}
+Random-int: {{$randomInt}}
+LocalDate: {{$datetime iso8601}}
+
+
+###
+POST {{Restaurant1.Api_HostAddress}}/api/weatherforecast
+Content-Type: application/json
+ 
+{
+  "email": "test@tes.com"
+}
+
+GET {{Restaurant1.Api_HostAddress}}/weatherforecast/CurrentDay
+
+###
